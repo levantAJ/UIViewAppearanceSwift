@@ -12,6 +12,8 @@
 		3D8104731BD541BD00B81A46 /* UIViewAppearanceSwiftTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 3D8104721BD541BD00B81A46 /* UIViewAppearanceSwiftTests.m */; };
 		3D8104801BD541F200B81A46 /* UIView+Swift.h in Headers */ = {isa = PBXBuildFile; fileRef = 3D81047E1BD541F200B81A46 /* UIView+Swift.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		3D8104811BD541F200B81A46 /* UIView+Swift.m in Sources */ = {isa = PBXBuildFile; fileRef = 3D81047F1BD541F200B81A46 /* UIView+Swift.m */; settings = {ASSET_TAGS = (); }; };
+		3D8104841BD547DF00B81A46 /* UIBarItem+Swift.h in Headers */ = {isa = PBXBuildFile; fileRef = 3D8104821BD547DF00B81A46 /* UIBarItem+Swift.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		3D8104851BD547DF00B81A46 /* UIBarItem+Swift.m in Sources */ = {isa = PBXBuildFile; fileRef = 3D8104831BD547DF00B81A46 /* UIBarItem+Swift.m */; settings = {ASSET_TAGS = (); }; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -33,6 +35,8 @@
 		3D8104741BD541BD00B81A46 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		3D81047E1BD541F200B81A46 /* UIView+Swift.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIView+Swift.h"; sourceTree = "<group>"; };
 		3D81047F1BD541F200B81A46 /* UIView+Swift.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIView+Swift.m"; sourceTree = "<group>"; };
+		3D8104821BD547DF00B81A46 /* UIBarItem+Swift.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIBarItem+Swift.h"; sourceTree = "<group>"; };
+		3D8104831BD547DF00B81A46 /* UIBarItem+Swift.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIBarItem+Swift.m"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -96,6 +100,8 @@
 			children = (
 				3D81047E1BD541F200B81A46 /* UIView+Swift.h */,
 				3D81047F1BD541F200B81A46 /* UIView+Swift.m */,
+				3D8104821BD547DF00B81A46 /* UIBarItem+Swift.h */,
+				3D8104831BD547DF00B81A46 /* UIBarItem+Swift.m */,
 			);
 			path = Extension;
 			sourceTree = "<group>";
@@ -108,6 +114,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				3D8104671BD541BD00B81A46 /* UIViewAppearanceSwift.h in Headers */,
+				3D8104841BD547DF00B81A46 /* UIBarItem+Swift.h in Headers */,
 				3D8104801BD541F200B81A46 /* UIView+Swift.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -209,6 +216,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				3D8104811BD541F200B81A46 /* UIView+Swift.m in Sources */,
+				3D8104851BD547DF00B81A46 /* UIBarItem+Swift.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
