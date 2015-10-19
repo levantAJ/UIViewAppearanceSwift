@@ -9,5 +9,5 @@
 #import <UIKit/UIKit.h>
 
 @interface UINavigationBar (Swift)
-
++ (instancetype)appearanceWhenContainedWithin:(Class<UIAppearanceContainer>)containerClass;
 @end

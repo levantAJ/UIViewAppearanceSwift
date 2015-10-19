@@ -10,7 +10,7 @@
 		3D8104671BD541BD00B81A46 /* UIViewAppearanceSwift.h in Headers */ = {isa = PBXBuildFile; fileRef = 3D8104661BD541BD00B81A46 /* UIViewAppearanceSwift.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		3D81046E1BD541BD00B81A46 /* UIViewAppearanceSwift.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3D8104631BD541BD00B81A46 /* UIViewAppearanceSwift.framework */; settings = {ASSET_TAGS = (); }; };
 		3D8104731BD541BD00B81A46 /* UIViewAppearanceSwiftTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 3D8104721BD541BD00B81A46 /* UIViewAppearanceSwiftTests.m */; };
-		3D8104801BD541F200B81A46 /* UIView+Swift.h in Headers */ = {isa = PBXBuildFile; fileRef = 3D81047E1BD541F200B81A46 /* UIView+Swift.h */; settings = {ASSET_TAGS = (); }; };
+		3D8104801BD541F200B81A46 /* UIView+Swift.h in Headers */ = {isa = PBXBuildFile; fileRef = 3D81047E1BD541F200B81A46 /* UIView+Swift.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		3D8104811BD541F200B81A46 /* UIView+Swift.m in Sources */ = {isa = PBXBuildFile; fileRef = 3D81047F1BD541F200B81A46 /* UIView+Swift.m */; settings = {ASSET_TAGS = (); }; };
 /* End PBXBuildFile section */
 
