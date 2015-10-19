@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.module_name = 'UIViewAppearanceSwift'
-  s.name = 'UICommon'
+  s.name = 'UIViewAppearanceSwift'
   s.version = '0.0.1'
   s.license = 'MIT'
   s.summary = 'Common UIViewAppearanceSwift @levantAJ team'
