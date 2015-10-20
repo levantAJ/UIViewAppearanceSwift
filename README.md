@@ -8,4 +8,9 @@ pod 'UIViewAppearanceSwift', :git => 'https://github.com/levantAJ/UIViewAppearan
 #Implement:
 ```swift
 import UIViewAppearanceSwift
+
+func layout() {
+    UINavigationBar.appearanceWhenContainedWithin(MFMailComposeViewController.self).barStyle = .Black
+    UIBarButtonItem.appearanceWhenContainedWithin(UISearchBar.self).setTitleTextAttributes([NSFontAttributeName: UIFont.systemFontOfSize(15)], forState: UIControlState.Normal)
+}
 ```
