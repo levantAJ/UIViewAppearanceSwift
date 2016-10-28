@@ -2,7 +2,7 @@
 
 #Install:
 ```swift
-pod 'UIViewAppearanceSwift'
+pod 'UIViewAppearanceSwift' :git => 'https://github.com/levantAJ/UIViewAppearanceSwift.git', :branch => 'master'
 ```
 
 #Implementation:
