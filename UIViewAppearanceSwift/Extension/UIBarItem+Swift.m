@@ -10,6 +10,6 @@
 
 @implementation UIBarItem (Swift)
 + (instancetype)appearanceWhenContainedWithin:(Class<UIAppearanceContainer>)containerClass {
-    return [self appearanceWhenContainedIn:containerClass, nil];
+    return [self appearanceWhenContainedIn: containerClass, nil];
 }
 @end

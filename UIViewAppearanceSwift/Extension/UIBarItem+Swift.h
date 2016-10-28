@@ -3,7 +3,7 @@
 //  UIViewAppearanceSwift
 //
 //  Created by Le Tai on 10/19/15.
-//  Copyright © 2015 AJ. All rights reserved.
+//  Copyright © 2015 levantAJ. All rights reserved.
 //
 
 #import <UIKit/UIKit.h>
