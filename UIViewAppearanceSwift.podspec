@@ -6,7 +6,7 @@ Pod::Spec.new do |s|
   s.summary = 'Common UIViewAppearanceSwift @levantAJ team'
   s.homepage = 'https://github.com/levantAJ'
   s.authors = { 'Le Tai' => 'sirlevantai@gmail.com' }
-  s.source = {  :git => 'https://github.com/levantAJ/UIViewAppearanceSwift.git', :commit => "a88eebfe8c6e888c046815b75b43fb17857a4e43" }
+  s.source = {  :git => 'https://github.com/levantAJ/UIViewAppearanceSwift.git', :commit => "db3df10a9a9394b15632ae6c85cd730c4ea9b710" }
   s.source_files = 'UIViewAppearanceSwift/**/*.{h,swift,m}'
   s.platforms = { :ios => "7.0" }
   s.requires_arc = true
