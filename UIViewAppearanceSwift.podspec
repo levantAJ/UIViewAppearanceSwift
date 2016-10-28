@@ -8,7 +8,6 @@ Pod::Spec.new do |s|
   s.authors = { 'Le Tai' => 'sirlevantai@gmail.com' }
   s.source = {  :git => 'https://github.com/levantAJ/UIViewAppearanceSwift.git', :commit => "a88eebfe8c6e888c046815b75b43fb17857a4e43" }
   s.source_files = 'UIViewAppearanceSwift/**/*.{h,swift,m}'
-  s.platform = :ios
-  s.ios.deployment_target = '7.0'
+  s.platforms = { :ios => "7.0" }
   s.requires_arc = true
 end
